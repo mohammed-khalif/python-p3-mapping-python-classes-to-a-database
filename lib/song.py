@@ -45,3 +45,26 @@ class Song:
     
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# print (Song.name)
+# song1 = Song("nice", "nasheed")   
+#                             #  intance
+# print(song1.name)
+# print(song1.album)
+print(Song.create("ssooo", "music").__dict__)
